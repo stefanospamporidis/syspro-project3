@@ -1,0 +1,5 @@
+/searchPatientRecord 1 
+/searchPatientRecord 2 
+/searchPatientRecord 3 
+/searchPatientRecord 4 
+/searchPatientRecord 5 
